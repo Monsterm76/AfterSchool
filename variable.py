@@ -24,4 +24,4 @@ print(age,"살",name)
 
 #문제 4번
 
-print(datetime.today()) 
+print(datetime.today("Y%,M2%,D2%)) 
